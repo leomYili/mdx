@@ -60,7 +60,7 @@
     "patch-package": "^6.0.0",
     "postinstall-postinstall": "^2.0.0",
     "prettier": "^2.0.0",
-    "remark-frontmatter": "^2.0.0",
+    "remark-frontmatter": "^4.0.0",
     "remark-preset-prettier": "^0.4.0",
     "remark-preset-wooorm": "^8.0.0",
     "rimraf": "^3.0.0",
